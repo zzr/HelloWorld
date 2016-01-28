@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    //zzr 2016-2-8
 }
 
 - (void)didReceiveMemoryWarning {
